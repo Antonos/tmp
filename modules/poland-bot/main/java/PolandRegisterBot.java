@@ -27,7 +27,7 @@ public class PolandRegisterBot {
 
     public static void main(String[] args) throws InterruptedException, IOException, ParseException, GeneralSecurityException, ConfigurationException {
 
-        config = new PropertiesConfiguration("poland-register-bot.properties");
+        config = new PropertiesConfiguration("D:/Dropbox/Bots/PolandVisa/poland-register-bot.properties");
 
         WebElement submitBtn;
 

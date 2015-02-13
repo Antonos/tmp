@@ -34,7 +34,7 @@ public class PolandCheckBot {
 
     public static void main(String[] args) throws InterruptedException, IOException, ParseException, GeneralSecurityException, ConfigurationException {
 
-        config = new PropertiesConfiguration("poland-check-bot.properties");
+        config = new PropertiesConfiguration("D:/Dropbox/Bots/PolandVisa/poland-check-bot.properties");
 
         if(now().getHourOfDay()<7 || now().getHourOfDay()>22) return;
 
