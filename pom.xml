@@ -12,7 +12,7 @@
     <name>Tmp</name>
 
     <modules>
-        <module>modules/poland-bot</module>
+        <module>poland-bot</module>
     </modules>
 
 
