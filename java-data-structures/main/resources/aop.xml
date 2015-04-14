@@ -1,0 +1,8 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.casper.java.dataStructures.PerformanceAspect" />
+    </aspects>
+    <weaver>
+        <include within="com.casper.java.dataStructures.*" />
+    </weaver>
+</aspectj>

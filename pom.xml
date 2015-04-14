@@ -13,6 +13,10 @@
 
     <modules>
         <module>poland-bot</module>
+        <module>java-data-structures</module>
+        <module>java-algorithms</module>
+        <module>java-ood</module>
+        <module>java-databases</module>
     </modules>
 
 
